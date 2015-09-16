@@ -6,7 +6,7 @@
  * @author Alessandro Manno <alexmanno96@gmail.com>
  */
 
-$old_dir = 'Figmenta_com_BACKUP/';
+$old_dir = 'old_dir/';
 $newdir = 'php_dir/';
 if(!is_dir($newdir))
     mkdir($newdir);
